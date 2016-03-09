@@ -1,0 +1,28 @@
+source "https://supermarket.chef.io"
+
+metadata
+
+
+
+cookbook 	 'apt'
+cookbook    'nodejs'
+cookbook    'ark', '~> 1.0.1'
+cookbook    'nginx'
+cookbook    '7-zip'
+cookbook    'ark'
+cookbook    'bluepill'
+cookbook    'chef_handler'
+cookbook    'compat_resource'
+cookbook    'nginx-repo'
+cookbook    'iptables'
+cookbook    'nodejs'
+cookbook    'ohai'
+cookbook    'packagecloud'
+cookbook    'R'
+cookbook    'rsyslog'
+cookbook    'runit'
+cookbook    'seven_zip'
+cookbook    'tools'
+cookbook    'windows'
+cookbook    'yum'
+cookbook    'yum-epel'
